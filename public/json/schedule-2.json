@@ -1,0 +1,10 @@
+[
+  {
+    "name": "FRIDAY - SUNDAY",
+    "time" : "11am to 9pm",
+    "mains" : " Available",
+    "desserts" : " Available",
+    "sambals" : " Available",
+    "services" : ["dine-in", "delivery"]
+    }
+]

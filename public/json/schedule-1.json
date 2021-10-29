@@ -1,0 +1,10 @@
+[
+  {
+    "name": "MONDAY - THURSDAY",
+    "time" : "10am to 7pm",
+    "mains" : " Available",
+    "desserts" : " Unavailable",
+    "sambals" : " Available",
+    "services" : ["take-away", "delivery"]
+  }
+]
